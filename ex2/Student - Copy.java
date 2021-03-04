@@ -1,4 +1,4 @@
-package ws4;
+package WS;
 import java.util.ArrayList;
 
 public class Student implements java.io.Serializable {
